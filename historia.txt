@@ -4,3 +4,4 @@ Your Vonage services are designed to work with most routers/firewalls
  some changes may be required to your settings support voice traffic.
 
 PING PINGaaaaaaao
+PINGinhoooooo
