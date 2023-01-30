@@ -4,3 +4,5 @@ Your Vonage services are designed to work with most routers/firewalls
  some changes may be required to your settings support voice traffic.
 
 Mañana nos enfocaremos en su vida laboral
+
+Hoy estamos dando inicio a la nueva testing
